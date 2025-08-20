@@ -8,3 +8,8 @@
     width: 80%;
     background-color: lightblue;
 }
+
+.image{
+    border: solid medium gray;
+    box-shadow: 3px 3px 3px gray;
+}
